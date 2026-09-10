@@ -1,0 +1,6 @@
+{
+  "name": "MACESA — Haute Parfumerie",
+  "description": "Official boutique for MACESA fine fragrances. Explore bespoke artisanal perfumes, olfactory pyramids, personalized engraving, and signature discovery sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
